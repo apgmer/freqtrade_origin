@@ -1,0 +1,3 @@
+[submodule "tgfreqtrade"]
+	path = tgfreqtrade
+	url = https://github.com/apgmer/tgfreqtrade.git
